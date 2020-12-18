@@ -7,3 +7,5 @@ Installing pyautogui --- pip install pyautogui
 ### Instructions ###
 Simple run <<<spam.py>>> and open notepad++ to get into output.
     
+## Output ##
+<img src="snapshot.png">
